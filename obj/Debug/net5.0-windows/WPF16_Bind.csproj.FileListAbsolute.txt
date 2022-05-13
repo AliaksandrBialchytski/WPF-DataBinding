@@ -1,0 +1,46 @@
+C:\Users\User\source\repos\WPF16_Bind\bin\Debug\net5.0-windows\WPF16_Bind.exe
+C:\Users\User\source\repos\WPF16_Bind\bin\Debug\net5.0-windows\WPF16_Bind.deps.json
+C:\Users\User\source\repos\WPF16_Bind\bin\Debug\net5.0-windows\WPF16_Bind.runtimeconfig.json
+C:\Users\User\source\repos\WPF16_Bind\bin\Debug\net5.0-windows\WPF16_Bind.runtimeconfig.dev.json
+C:\Users\User\source\repos\WPF16_Bind\bin\Debug\net5.0-windows\WPF16_Bind.dll
+C:\Users\User\source\repos\WPF16_Bind\bin\Debug\net5.0-windows\ref\WPF16_Bind.dll
+C:\Users\User\source\repos\WPF16_Bind\bin\Debug\net5.0-windows\WPF16_Bind.pdb
+C:\Users\User\source\repos\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WPF16_Bind\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\User\source\repos\WPF16_Bind\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\User\source\repos\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind_MarkupCompile.cache
+C:\Users\User\source\repos\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind_MarkupCompile.lref
+C:\Users\User\source\repos\WPF16_Bind\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\User\source\repos\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.g.resources
+C:\Users\User\source\repos\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.AssemblyInfo.cs
+C:\Users\User\source\repos\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.dll
+C:\Users\User\source\repos\WPF16_Bind\obj\Debug\net5.0-windows\ref\WPF16_Bind.dll
+C:\Users\User\source\repos\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.pdb
+C:\Users\User\source\repos\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.genruntimeconfig.cache
+C:\Users\User\source\repos\WPF16_Bind\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\bin\Debug\net5.0-windows\WPF16_Bind.exe
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\bin\Debug\net5.0-windows\WPF16_Bind.deps.json
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\bin\Debug\net5.0-windows\WPF16_Bind.runtimeconfig.json
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\bin\Debug\net5.0-windows\WPF16_Bind.runtimeconfig.dev.json
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\bin\Debug\net5.0-windows\WPF16_Bind.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\bin\Debug\net5.0-windows\ref\WPF16_Bind.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\bin\Debug\net5.0-windows\WPF16_Bind.pdb
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.csproj.AssemblyReference.cache
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\obj\Debug\net5.0-windows\App.g.cs
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind_MarkupCompile.cache
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind_MarkupCompile.lref
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.g.resources
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.GeneratedMSBuildEditorConfig.editorconfig
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.AssemblyInfoInputs.cache
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.AssemblyInfo.cs
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.csproj.CoreCompileInputs.cache
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\obj\Debug\net5.0-windows\ref\WPF16_Bind.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.pdb
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WPF16_Bind\obj\Debug\net5.0-windows\WPF16_Bind.genruntimeconfig.cache
